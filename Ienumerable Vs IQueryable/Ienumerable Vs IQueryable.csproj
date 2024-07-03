@@ -54,6 +54,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Book.cs" />
     <Compile Include="Library.Context.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>

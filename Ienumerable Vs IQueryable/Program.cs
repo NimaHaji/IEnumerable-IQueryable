@@ -10,6 +10,8 @@ namespace Ienumerable_Vs_IQueryable
     {
         static void Main(string[] args)
         {
+            Library_DBEntities Books = new Library_DBEntities();
+            Books
         }
     }
 }
